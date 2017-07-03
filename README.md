@@ -53,8 +53,7 @@ $ sudo service pmwebd restart
 * Just copy these web files to a folder that you can access by your browser.
 
 ### Using
-* Input cilent server's IP (and Port) to `Hostname`. Default port is `44323`.
-> [IP]:[Port]
+* Input cilent server's `IP(:Port)` to `Hostname`. Default port is `44323`.
 
 ### Demo
 * http://monitor.bitnp.net 
