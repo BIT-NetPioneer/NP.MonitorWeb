@@ -56,5 +56,6 @@ $ sudo service pmwebd restart
 * Input cilent server's `IP(:Port)` to `Hostname`. Default port is `44323`.
 
 ### Demo
+![demo](https://raw.githubusercontent.com/jackhhh/NP.MonitorWeb/master/docs/demo.gif)
 * http://monitor.bitnp.net 
 * (Accessible only in BIT campus network)
